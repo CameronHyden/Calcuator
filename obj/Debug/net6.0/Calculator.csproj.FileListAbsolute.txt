@@ -1,0 +1,15 @@
+/Users/cameronhyden/calculator/src/Calculator/bin/Debug/net6.0/Calculator
+/Users/cameronhyden/calculator/src/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/Users/cameronhyden/calculator/src/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/Users/cameronhyden/calculator/src/Calculator/bin/Debug/net6.0/Calculator.dll
+/Users/cameronhyden/calculator/src/Calculator/bin/Debug/net6.0/Calculator.pdb
+/Users/cameronhyden/calculator/src/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/Users/cameronhyden/calculator/src/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameronhyden/calculator/src/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/Users/cameronhyden/calculator/src/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/Users/cameronhyden/calculator/src/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/cameronhyden/calculator/src/Calculator/obj/Debug/net6.0/Calculator.dll
+/Users/cameronhyden/calculator/src/Calculator/obj/Debug/net6.0/refint/Calculator.dll
+/Users/cameronhyden/calculator/src/Calculator/obj/Debug/net6.0/Calculator.pdb
+/Users/cameronhyden/calculator/src/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
+/Users/cameronhyden/calculator/src/Calculator/obj/Debug/net6.0/ref/Calculator.dll
